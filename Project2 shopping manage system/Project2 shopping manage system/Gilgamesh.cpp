@@ -9,44 +9,65 @@ void Gilgamesh:: create_admin_file(int x,string name,string pass)
 {
 	ofstream out_file(".\\管理员\\管理员.txt", ios::app);
 	if (!out_file) exit(-1);
-	out_file << x <<' ' << name << ' ' << pass << endl;
+	out_file<< endl << x <<' ' << name << ' ' << pass;
 	out_file.close();
 }
 
 void  Gilgamesh::enter_Avalon()
 {
 	Avalon gate;
+	system("cls");
+	welcome_info();
 	admin_func_chooce();
 	cout << "输入操作：" << endl;
-	int choose;
+	string choose;
 	cin >> choose;
-	while (choose != 0)
+	while (choose != "0")
 	{
 
-		if (choose == 1)
+		system("cls");
+		welcome_info();
+		if (choose == "1")
 		{
-			gate.user_query(idnum);
+			system("cls");
+			welcome_info();
+			//gate.user_query(idnum);
 		}
-		if (choose == 2)
+		else if (choose == "2")
 		{
+			system("cls");
+			welcome_info();
 			gate.treasure_add();
 		}
-		if (choose == 3)
+		else if (choose == "3")
 		{
-			gate.treasure_delete();
+			system("cls");
+			welcome_info();
+		gate.treasure_delete();
 		}
-		if (choose == 4)
+		else if (choose == "4")
 		{
-			gate.change_treasure_num();
+			system("cls");
+			welcome_info();
+		gate.change_treasure_numorprice();
 		}
-		if (choose == 5)
+		else if (choose == "5")
 		{
+			system("cls");
+			welcome_info();
+			gate.admin_display();
+		}
+		else if (choose == "6")
+		{
+			system("cls");
+			welcome_info();
 			gate.sold_display();
 		}
 		else
 		{
 			cout << "invalid choose!" << endl;
 		}
+
 		admin_func_chooce();
 		cout << "输入操作：" << endl;
 		cin >> choose;

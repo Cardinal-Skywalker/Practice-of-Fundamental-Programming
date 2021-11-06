@@ -1,6 +1,8 @@
 #include<iostream>
 #include<fstream>
+#include<Windows.h>
 #include"Avalon.h"
+#include"welcome.h"
 #include"Gilgamesh.h"
 using namespace std;
 
@@ -30,7 +32,7 @@ void admin_sign_up()
 		while (!in_file.eof())
 		{
 			i++;
-			in_file >> x >>prename >> prename;
+			in_file >> x >>prename >> prepass;
 			if (prename == name)
 			{
 				cout << "ERROR: " << name << " has been used" << endl;
@@ -38,7 +40,7 @@ void admin_sign_up()
 				break;
 			}
 		}
-		if (pass1 == pass2)
+		if (pass1 != pass2)
 		{
 			iffail = true;
 			cout << "ERROR,password is illegal!" << endl;
@@ -57,7 +59,9 @@ void admin_sign_in()
 	string name, pass1;
 	while (iffail)
 	{
-		iffail = false;
+		system("cls");
+		welcome_info();
+		iffail = true;
 		cout << "Please input your name: ";
 		cin >> name;
 		cout << endl;
@@ -70,12 +74,12 @@ void admin_sign_in()
 		int x;
 		while (!in_file.eof())
 		{
-			in_file >> x >> prename >> prename;
+			in_file >> x >> prename >> prepass;
 			if (prename == name)
 			{
 				if (pass1 != prepass)
 				{
-					cout << "username or password wrong!" << endl;
+					iffail = true;
 				}
 				else
 				{
@@ -87,7 +91,11 @@ void admin_sign_in()
 				break;
 			}
 		}
+		in_file.close();
 		if (iffail)
-			cout << "username or password wrong" << endl;
+		{
+			cout << "username or password wrong!" << endl;
+			Sleep(4 * 1000);
+		}
 	}
 }

@@ -1,5 +1,6 @@
 #include"User.h"
 #include<iostream>
+#include<Windows.h>
 #include<fstream>
 #include"Avalon.h"
 #include"welcome.h"
@@ -8,36 +9,54 @@ using namespace std;
 void User::visit_Avalon()
 {
 	Avalon gate;
+	system("cls");
+	welcome_info();
 	user_func_chooce();
 	cout << "输入操作：" << endl;
-	int choose;
+	string choose;
 	cin >> choose;
-	while (choose != 1)
+	while (choose != "1")
 	{
-
-		if (choose == 2)
+		system("cls");
+		welcome_info();
+		if (choose == "2")
 		{
-			gate.user_query(idnum);
-		}
-		if (choose == 3)
-		{
+			system("cls");
+			welcome_info();
 			gate.user_display(idnum);
+		
 		}
-		if (choose == 4)
+		else if (choose == "3")
 		{
+			system("cls");
+			welcome_info();
+			gate.user_display(idnum);
+			//	gate.user_query(idnum);
+		}
+		else if (choose == "4")
+		{
+			system("cls");
+			welcome_info();
+			gate.user_display(idnum);
 			gate.user_add(idnum);
 		}
-		if (choose == 5)
+		else if (choose == "5")
 		{
+			system("cls");
+			welcome_info();
 			gate.user_delete(idnum);
 		}
-		if (choose == 6)
+		else if (choose == "6")
 		{
+			system("cls");
+			welcome_info();
 			gate.user_cart_display(idnum);
 		}
-		if (choose == 7)
+		else if (choose == "7")
 		{
-			gate.user_order(idnum);
+			system("cls");
+			welcome_info();
+		gate.user_order(idnum);
 		}
 		else
 		{
@@ -53,16 +72,16 @@ void User::create_user_file(int x, string name, string pass)
 {
 	ofstream out_file(".\\用户\\用户.txt", ios::app);
 	if (!out_file) exit(-1);
-	out_file << name << ' ' << pass << endl;
+	out_file <<endl<< name << ' ' << pass;
 	out_file.close();
 }
 
 void User::create_user_cart_file(int x)
 {
-	string path = ".\\用户\\uer";
-	char i[3];
-	_itoa_s(x, i, 10);
-	path += i;
+	string path = ".\\用户\\user";
+	char a[10] = { '\0' };
+	sprintf_s(a, "%d", x);
+	path += a;
 	path += ".txt";
 	ofstream out_file(path, ios::out);
 	if (!out_file) exit(-1);
@@ -73,9 +92,9 @@ void User::create_user_cart_file(int x)
 void  User::create_user_history_file(int x)
 {
 	string path = ".\\用户\\history_user";
-	char i[3];
-	_itoa_s(x, i, 10);
-	path += i;
+	char a[10] = { '\0' };
+	sprintf_s(a, "%d", x);
+	path += a;
 	path += ".txt";
 	ofstream out_file(path, ios::out);
 	if (!out_file) exit(-1);

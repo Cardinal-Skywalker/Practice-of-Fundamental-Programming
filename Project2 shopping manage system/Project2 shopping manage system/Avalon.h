@@ -21,7 +21,7 @@ public:
 	int user_num;
 	int admin_num;
 	int treasure_num;
-	void user_query(int user_idnum);
+	//void user_query(int user_idnum);
 	void user_order(int user_idnum);
 	void user_add(int user_idnum);
 	void user_delete(int user_idnum);
@@ -38,12 +38,8 @@ private:
 	void init_Avalon();
 
 	void treasure_add();
+	void admin_display();
 	void treasure_delete();
-	void change_treasure_num();
+	void change_treasure_numorprice();
 	void sold_display();
 };
-
-/*class warpper {
-public:
-	static Avalon gate;
-};*/

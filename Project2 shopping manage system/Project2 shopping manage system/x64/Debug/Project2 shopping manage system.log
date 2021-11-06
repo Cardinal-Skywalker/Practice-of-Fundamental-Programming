@@ -1,20 +1,2 @@
-﻿  adminop.cpp
-  Avalon.cpp
-  Gilgamesh.cpp
-  main.cpp
-  User.cpp
-  userop.cpp
-  welcome.cpp
-  正在生成代码...
-Gilgamesh.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl Avalon::user_query(int)" (?user_query@Avalon@@QEAAXH@Z)，函数 "public: void __cdecl Gilgamesh::enter_Avalon(void)" (?enter_Avalon@Gilgamesh@@QEAAXXZ) 中引用了该符号
-User.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl Avalon::user_query(int)" (?user_query@Avalon@@QEAAXH@Z)
-Gilgamesh.obj : error LNK2019: 无法解析的外部符号 "private: void __cdecl Avalon::treasure_add(void)" (?treasure_add@Avalon@@AEAAXXZ)，函数 "public: void __cdecl Gilgamesh::enter_Avalon(void)" (?enter_Avalon@Gilgamesh@@QEAAXXZ) 中引用了该符号
-Gilgamesh.obj : error LNK2019: 无法解析的外部符号 "private: void __cdecl Avalon::treasure_delete(void)" (?treasure_delete@Avalon@@AEAAXXZ)，函数 "public: void __cdecl Gilgamesh::enter_Avalon(void)" (?enter_Avalon@Gilgamesh@@QEAAXXZ) 中引用了该符号
-Gilgamesh.obj : error LNK2019: 无法解析的外部符号 "private: void __cdecl Avalon::change_treasure_num(void)" (?change_treasure_num@Avalon@@AEAAXXZ)，函数 "public: void __cdecl Gilgamesh::enter_Avalon(void)" (?enter_Avalon@Gilgamesh@@QEAAXXZ) 中引用了该符号
-Gilgamesh.obj : error LNK2019: 无法解析的外部符号 "private: void __cdecl Avalon::sold_display(void)" (?sold_display@Avalon@@AEAAXXZ)，函数 "public: void __cdecl Gilgamesh::enter_Avalon(void)" (?enter_Avalon@Gilgamesh@@QEAAXXZ) 中引用了该符号
-Gilgamesh.obj : error LNK2019: 无法解析的外部符号 "void __cdecl admin_func_chooce(void)" (?admin_func_chooce@@YAXXZ)，函数 "public: void __cdecl Gilgamesh::enter_Avalon(void)" (?enter_Avalon@Gilgamesh@@QEAAXXZ) 中引用了该符号
-main.obj : error LNK2019: 无法解析的外部符号 "void __cdecl boot_interface(void)" (?boot_interface@@YAXXZ)，函数 main 中引用了该符号
-main.obj : error LNK2019: 无法解析的外部符号 "void __cdecl goodbye_info(void)" (?goodbye_info@@YAXXZ)，函数 main 中引用了该符号
-User.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl Avalon::user_order(int)" (?user_order@Avalon@@QEAAXH@Z)，函数 "public: void __cdecl User::visit_Avalon(void)" (?visit_Avalon@User@@QEAAXXZ) 中引用了该符号
-User.obj : error LNK2019: 无法解析的外部符号 "void __cdecl user_func_chooce(void)" (?user_func_chooce@@YAXXZ)，函数 "public: void __cdecl User::visit_Avalon(void)" (?visit_Avalon@User@@QEAAXXZ) 中引用了该符号
-E:\大二\程序设计基础实验\Project2 shopping manage system\Project2 shopping manage system\x64\Debug\Project2 shopping manage system.exe : fatal error LNK1120: 10 个无法解析的外部命令
+﻿  Avalon.cpp
+  Project2 shopping manage system.vcxproj -> D:\Practice-of-Fundamental-Programming\Project2 shopping manage system\x64\Debug\Project2 shopping manage system.exe
