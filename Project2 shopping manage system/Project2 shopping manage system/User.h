@@ -24,5 +24,6 @@ public:
 	void create_user_file(int x, string name, string pass);
 	void create_user_cart_file(int x);
 	void create_user_history_file(int x);
+	void create_user_order_file(int x);
 };
 

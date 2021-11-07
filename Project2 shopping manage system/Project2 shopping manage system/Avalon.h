@@ -21,7 +21,7 @@ public:
 	int user_num;
 	int admin_num;
 	int treasure_num;
-	//void user_query(int user_idnum);
+	void user_query(int user_idnum);
 	void user_order(int user_idnum);
 	void user_add(int user_idnum);
 	void user_delete(int user_idnum);
@@ -33,10 +33,11 @@ public:
 		init_Avalon();
 	}
 	void renew_Avalon();
+	void user_history_display(int user_idnum);
+	void user_order_display(int user_idnum);
 private:
 	
 	void init_Avalon();
-
 	void treasure_add();
 	void admin_display();
 	void treasure_delete();

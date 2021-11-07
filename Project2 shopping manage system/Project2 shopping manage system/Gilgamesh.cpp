@@ -31,25 +31,29 @@ void  Gilgamesh::enter_Avalon()
 		{
 			system("cls");
 			welcome_info();
-			//gate.user_query(idnum);
+			gate.admin_display();
+			gate.user_query(0);
 		}
 		else if (choose == "2")
 		{
 			system("cls");
 			welcome_info();
+			gate.admin_display();
 			gate.treasure_add();
 		}
 		else if (choose == "3")
 		{
 			system("cls");
 			welcome_info();
-		gate.treasure_delete();
+			gate.admin_display();
+			gate.treasure_delete();
 		}
 		else if (choose == "4")
 		{
 			system("cls");
 			welcome_info();
-		gate.change_treasure_numorprice();
+			gate.admin_display();
+			gate.change_treasure_numorprice();
 		}
 		else if (choose == "5")
 		{
@@ -73,4 +77,3 @@ void  Gilgamesh::enter_Avalon()
 		cin >> choose;
 	}
 }
-
