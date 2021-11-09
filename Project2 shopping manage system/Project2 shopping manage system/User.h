@@ -25,6 +25,9 @@ public:
 	void create_user_cart_file(int x);
 	void create_user_history_file(int x);
 	void create_user_order_file(int x);
+<<<<<<< HEAD
 	void create_admin_to_user_file(int x);
+=======
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 };
 

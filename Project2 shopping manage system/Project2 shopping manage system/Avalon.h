@@ -37,9 +37,12 @@ public:
 	void renew_Avalon();
 	void user_history_display(int user_idnum);
 	void user_order_display(int user_idnum);
+<<<<<<< HEAD
 	void admin_to_user_display(int user_idnum);
 	void user_to_admin(int user_idnum);
 	void clear_userboard(int user_idnum);
+=======
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 private:
 	void init_Avalon();
 	void treasure_add();

@@ -19,11 +19,14 @@ void admin_sign_up()
 	while (iffail)
 	{
 		iffail = false;
+<<<<<<< HEAD
 		string check;
 		cout << "请输入管理员密匙：";
 		cin >> check;
 		if (check != "Enuma Elish")
 			break;
+=======
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 		cout << "输入管理员ID：";
 		cin >> name;
 		cout << endl;
@@ -96,7 +99,11 @@ void admin_sign_in()
 				putchar('\b'); // 再回退一格等待输入
 				count--;
 			}
+<<<<<<< HEAD
 			if (count == size - 1) { 
+=======
+			if (count == size - 1) { // 最大长度为size-1
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 				continue;
 			}
 			if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z') || (c >= '0' && c <= '9')) {  // 密码只可包含数字和字母

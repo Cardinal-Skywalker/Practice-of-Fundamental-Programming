@@ -74,6 +74,7 @@ void User::visit_Avalon()
 			welcome_info();
 			gate.user_order_display(idnum);
 		}
+<<<<<<< HEAD
 		else if (choose == "10")
 		{
 			system("cls");
@@ -98,6 +99,8 @@ void User::visit_Avalon()
 				gate.clear_userboard(idnum);
 			}
 		}
+=======
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 		else
 		{
 			SetConsoleTextAttribute(handle, word);
@@ -154,6 +157,7 @@ void  User::create_user_order_file(int x)
 	ofstream out_file(path, ios::out);
 	if (!out_file) exit(-1);
 	out_file << "µØÖ·"<<' ';
+<<<<<<< HEAD
 	out_file.close();
 }
 
@@ -166,5 +170,7 @@ void  User::create_admin_to_user_file(int x)
 	path += ".txt";
 	ofstream out_file(path, ios::out);
 	if (!out_file) exit(-1);
+=======
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 	out_file.close();
 }

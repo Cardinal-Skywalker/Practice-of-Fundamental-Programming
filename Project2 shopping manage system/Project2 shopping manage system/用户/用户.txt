@@ -2,6 +2,7 @@
 user1	passworduser1
 user2	passworduser2
 user3	passworduser3
+<<<<<<< HEAD
 user4	passworduser4
 0 0
 1 1
@@ -10,3 +11,6 @@ user4	passworduser4
 4 4
 5 5
 6 6
+=======
+user4	passworduser4
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0

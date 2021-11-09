@@ -100,7 +100,11 @@ void Avalon::user_add(int user_idnum)
 						{
 							get_in_cart = true;
 							treasure_in_cart[k].num += num;
+<<<<<<< HEAD
 							out << endl << treasure_in_cart[k].id << ' ' << treasure_in_cart[k].name << ' ' << treasure_in_cart[k].brand << ' ' << treasure_in_cart[k].price << ' ' << num << ' ' << 1;
+=======
+							out << endl << treasure_in_cart[k].id << ' ' << treasure_in_cart[k].name << ' ' << treasure_in_cart[k].brand << ' ' << treasure_in_cart[k].price << ' ' << treasure_in_cart[k].num << ' ' << 1;
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 						}
 						k++;
 					}
@@ -261,7 +265,11 @@ void  Avalon::user_cart_display(int user_idnum)
 	path += ".txt";
 	ifstream in_file(path, ios::in);
 	if (!in_file) exit(-1);
+<<<<<<< HEAD
  cout << "******************************************************" << endl;
+=======
+	cout << "********************************************" << endl;
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 	Treasure temp;
 	string head;
 	getline(in_file, head);
@@ -386,11 +394,18 @@ void Avalon::change_treasure_numorprice()
 	if (i == treasure_num)
 		cout << "请输入正确的商品ID和数量" << endl;
 	else
+<<<<<<< HEAD
 		cout << "商品信息修改成功！" << endl; 
 
 	renew_Avalon();
 }
 
+=======
+		cout << "商品信息修改成功！" << endl;
+	renew_Avalon();
+}
+
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 void  Avalon::sold_display()
 {
 	ifstream in_file(".\\商店\\已售清单.txt", ios::in);
@@ -546,8 +561,13 @@ void Avalon::user_query(int user_idnum)
 	int findnum = 0;
 	getchar();
 	getline(cin, search);
+<<<<<<< HEAD
  cout << "******************************************************" << endl;
 	cout << left << setw(12) << "ID" << setw(12) << "名称" << setw(12) << "品牌" << setw(12) << "价格" << setw(12) << "数量" << endl;
+=======
+	cout << "********************************************" << endl;
+	cout << left << setw(10) << "ID" << setw(10) << "名称" << setw(10) << "品牌" << setw(10) << "价格" << setw(10) << "数量" << endl;
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 	bool ifcomplete = false;
 	for (int i = 0; i < treasure_num; i++)
 	{
@@ -558,7 +578,11 @@ void Avalon::user_query(int user_idnum)
 				continue;
 			findnum++;
 			out_file << endl << treasure[i].id << ' ' << treasure[i].name << ' ' << treasure[i].brand << ' ' << treasure[i].price << ' ' << treasure[i].num << ' ' << 0;
+<<<<<<< HEAD
 			cout << left << setw(12) << treasure[i].id << setw(12) << treasure[i].name << setw(12) << treasure[i].brand << setw(12) << treasure[i].price << setw(12) << treasure[i].num << endl;
+=======
+			cout << left << setw(10) << treasure[i].id << setw(10) << treasure[i].name << setw(10) << treasure[i].brand << setw(10) << treasure[i].price << setw(10) << treasure[i].num << endl;
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 		}
 	}
 	for (int i = 0; i < treasure_num; i++)
@@ -570,7 +594,11 @@ void Avalon::user_query(int user_idnum)
 				continue;
 			findnum++;
 			out_file << endl << treasure[i].id << ' ' << treasure[i].name << ' ' << treasure[i].brand << ' ' << treasure[i].price << ' ' << treasure[i].num << ' ' << 0;
+<<<<<<< HEAD
 			cout << left << setw(12) << treasure[i].id << setw(12) << treasure[i].name << setw(12) << treasure[i].brand << setw(12) << treasure[i].price << setw(12) << treasure[i].num << endl;
+=======
+			cout << left << setw(10) << treasure[i].id << setw(10) << treasure[i].name << setw(10) << treasure[i].brand << setw(10) << treasure[i].price << setw(10) << treasure[i].num << endl;
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 		}
 	}
 	for (int i = 0; i < treasure_num; i++)
@@ -582,7 +610,11 @@ void Avalon::user_query(int user_idnum)
 				continue;
 			findnum++;
 			out_file << endl << treasure[i].id << ' ' << treasure[i].name << ' ' << treasure[i].brand << ' ' << treasure[i].price << ' ' << treasure[i].num << ' ' << 0;
+<<<<<<< HEAD
 			cout << left << setw(12) << treasure[i].id << setw(12) << treasure[i].name << setw(12) << treasure[i].brand << setw(12) << treasure[i].price << setw(12) << treasure[i].num << endl;
+=======
+			cout << left << setw(10) << treasure[i].id << setw(10) << treasure[i].name << setw(10) << treasure[i].brand << setw(10) << treasure[i].price << setw(10) << treasure[i].num << endl;
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 		}
 	}
 	if (ifcomplete && findnum == 0)
@@ -688,13 +720,21 @@ void Avalon::user_query(int user_idnum)
 				if (b[0] != 0)
 				{
 					out_file << endl << treasure[a[i]].id<<' '<< treasure[a[i]].name<<' ' << treasure[a[i]].brand<<' ' << treasure[a[i]].price<<' ' << treasure[a[i]].num << ' ' << 0;
+<<<<<<< HEAD
 					cout << left << setw(12) << treasure[a[i]].id << setw(12) << treasure[a[i]].name << setw(12) << treasure[a[i]].brand << setw(12) << treasure[a[i]].price << setw(12) << treasure[a[i]].num << endl;
+=======
+					cout << left << setw(10) << treasure[a[i]].id << setw(10) << treasure[a[i]].name << setw(10) << treasure[a[i]].brand << setw(10) << treasure[a[i]].price << setw(10) << treasure[a[i]].num << endl;
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 				}
 			}
 		}
 	}
 	out_file.close();
+<<<<<<< HEAD
  cout << "******************************************************" << endl;
+=======
+	cout << "********************************************" << endl;
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 }
 
 void  Avalon::user_history_display(int user_idnum)
@@ -714,7 +754,11 @@ void  Avalon::user_history_display(int user_idnum)
 	int op;
 	string head;
 	getline(in_file, head);
+<<<<<<< HEAD
 	cout << left << setw(12) << "ID" << setw(12) << "名称" << setw(12) << "品牌" << setw(12) << "价格" << setw(12) << "数量" << setw(12) << "操作" << endl;
+=======
+	cout << left << setw(10) << "ID" << setw(10) << "名称" << setw(10) << "品牌" << setw(10) << "价格" << setw(10) << "数量" << setw(10) << "操作" << endl;
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 	while (!in_file.eof())
 	{
 		in_file >> temp.id >> temp.name;
@@ -722,11 +766,19 @@ void  Avalon::user_history_display(int user_idnum)
 		in_file >> temp.brand >> temp.price >> temp.num >> op;
 		if (temp.num >= 1)
 		{
+<<<<<<< HEAD
 			cout << left << setw(12) << temp.id << setw(12) << temp.name << setw(12) << temp.brand << setw(12) << temp.price << setw(12) << temp.num;
 			SetConsoleTextAttribute(handle, word);
 			if (op == 0) cout << left << setw(12) <<"查询商品";
 			else if (op == 1) cout << left << setw(12) << "添加商品至购物车";
 			else if (op == 2) cout << left << setw(12) << "从购物车减少商品";
+=======
+			cout << left << setw(10) << temp.id << setw(10) << temp.name << setw(10) << temp.brand << setw(10) << temp.price << setw(10) << temp.num;
+			SetConsoleTextAttribute(handle, word);
+			if (op == 0) cout << left << setw(10) <<"查询商品";
+			else if (op == 1) cout << left << setw(10) << "添加商品至购物车";
+			else if (op == 2) cout << left << setw(10) << "从购物车减少商品";
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 			SetConsoleTextAttribute(handle, word2);
 			cout << endl;
 		}
@@ -795,6 +847,10 @@ void Avalon::user_order_display(int user_idnum)
 			i++;
 			j = 0;
 			infile >> check;
+<<<<<<< HEAD
+=======
+
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 			if (infile.eof()) break;
 			continue;
 		}
@@ -802,19 +858,33 @@ void Avalon::user_order_display(int user_idnum)
 
 	}
 	char ch;
+<<<<<<< HEAD
 	int getnum = 0;
 	for (;;)
 	{
+=======
+	for (;;)
+	{
+		int getnum = 0;
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 		ch = _getch();
 		if (ch == 27) break;
 		ch = _getch();
 		if (ch == 72)
 		{
+<<<<<<< HEAD
 			getnum--;
 		}
 		else if (ch == 80)
 		{
 			getnum++;
+=======
+			getnum++;
+		}
+		else if (ch == 80)
+		{
+			getnum--;
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 		}
 		if (getnum <= 0)
 			getnum = 0;
@@ -822,6 +892,7 @@ void Avalon::user_order_display(int user_idnum)
 			getnum = (i - 1) < 0 ? 0 : (i - 1);
 		system("cls");
 		welcome_info();
+<<<<<<< HEAD
 	//	cout << i << ' ' << getnum << endl;
 		cout.precision(2);
 		cout << "你的订单：" << endl;
@@ -1041,4 +1112,22 @@ void Avalon::renew_usercart(int user_idnum)
 		out_file << treasure_in_cart[m].id << ' ' << treasure_in_cart[m].name << ' ' << treasure_in_cart[m].brand << ' ' << treasure_in_cart[m].price << ' ' << treasure_in_cart[m].num << endl;
 	}
 	out_file.close();
+=======
+		cout << "你的订单：" << endl;
+		cout << "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<" << endl;
+		cout << left << setw(10) << "ID" << setw(10) << "名称" << setw(10) << "品牌" << setw(10) << "价格" << setw(10) << "数量" << endl;
+		for (int s = 0; s < order_num[getnum]; s++)
+		{
+				cout << left << setw(10) << order[getnum][s].id << setw(10) << order[getnum][s].name << setw(10) << order[getnum][s].brand << setw(10) << order[getnum][s].price  << setw(10) << order[getnum][s].num << endl;
+		}
+		cout << "配送地址：" << address[getnum] << endl;
+		cout << "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<" << endl;
+
+
+	}
+
+
+
+	infile.close();
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 }

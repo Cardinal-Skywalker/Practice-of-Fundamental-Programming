@@ -61,7 +61,10 @@ void user_sign_up()
 	newuser.create_user_cart_file(i);
 	newuser.create_user_history_file(i);
 	newuser.create_user_order_file(i);
+<<<<<<< HEAD
 	newuser.create_admin_to_user_file(i);
+=======
+>>>>>>> e7e1c9595f1628c89278f19eaa6d6ca37ab0ace0
 	Avalon gate;
 	gate.user_num++;
 	gate.renew_Avalon();
