@@ -1,0 +1,2 @@
+ID	名称	品牌	价格	数量	操作
+F0008 Enuma_Elish Babylon 9999 1 0

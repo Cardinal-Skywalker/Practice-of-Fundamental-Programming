@@ -18,38 +18,42 @@ void  Gilgamesh::enter_Avalon()
 	Avalon gate;
 	system("cls");
 	welcome_info();
+	gate.note_display(0);
 	admin_func_chooce();
 	cout << "输入操作：" << endl;
 	string choose;
 	cin >> choose;
 	while (choose != "0")
 	{
-
 		system("cls");
 		welcome_info();
 		if (choose == "1")
 		{
 			system("cls");
 			welcome_info();
-			//gate.user_query(idnum);
+			gate.admin_display();
+			gate.user_query(0);
 		}
 		else if (choose == "2")
 		{
 			system("cls");
 			welcome_info();
+			gate.admin_display();
 			gate.treasure_add();
 		}
 		else if (choose == "3")
 		{
 			system("cls");
 			welcome_info();
-		gate.treasure_delete();
+			gate.admin_display();
+			gate.treasure_delete();
 		}
 		else if (choose == "4")
 		{
 			system("cls");
 			welcome_info();
-		gate.change_treasure_numorprice();
+			gate.admin_display();
+			gate.change_treasure_numorprice();
 		}
 		else if (choose == "5")
 		{
@@ -63,14 +67,23 @@ void  Gilgamesh::enter_Avalon()
 			welcome_info();
 			gate.sold_display();
 		}
+		else if (choose == "7")
+		{
+			system("cls");
+			welcome_info();
+			gate.note_display(1);
+			cout << "1.回复留言   2.离开" << endl;
+			string cho;
+			cin >> cho;
+			if (cho == "1")
+				gate.note_handle();
+		}
 		else
 		{
 			cout << "invalid choose!" << endl;
 		}
-
 		admin_func_chooce();
 		cout << "输入操作：" << endl;
 		cin >> choose;
 	}
 }
-
