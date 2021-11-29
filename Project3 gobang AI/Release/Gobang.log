@@ -1,0 +1,9 @@
+﻿  ClientSocket.cpp
+  Reversi.cpp
+D:\Practice-of-Fundamental-Programming\Project3 gobang AI\clinet_win\Reversi.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Practice-of-Fundamental-Programming\Project3 gobang AI\clinet_win\Reversi.cpp(592,28): warning C4018: “>=”: 有符号/无符号不匹配
+D:\Practice-of-Fundamental-Programming\Project3 gobang AI\clinet_win\Reversi.cpp(744,28): warning C4018: “>=”: 有符号/无符号不匹配
+  main.cpp
+  正在生成代码...
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:ICF”规范)
+  Gobang.vcxproj -> D:\Practice-of-Fundamental-Programming\Project3 gobang AI\Release\Gobang.dll

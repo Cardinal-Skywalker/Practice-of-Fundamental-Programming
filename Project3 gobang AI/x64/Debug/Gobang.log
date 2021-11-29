@@ -1,0 +1,8 @@
+﻿  Reversi.cpp
+D:\Practice-of-Fundamental-Programming\Project3 gobang AI\clinet_win\Reversi.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Practice-of-Fundamental-Programming\Project3 gobang AI\clinet_win\Reversi.cpp(79,16): warning C4129: “g”: 不可识别的字符转义序列
+D:\Practice-of-Fundamental-Programming\Project3 gobang AI\clinet_win\Reversi.cpp(559,16): warning C4129: “g”: 不可识别的字符转义序列
+D:\Practice-of-Fundamental-Programming\Project3 gobang AI\clinet_win\Reversi.cpp(601,16): warning C4129: “g”: 不可识别的字符转义序列
+  main.cpp
+  正在生成代码...
+  Gobang.vcxproj -> D:\Practice-of-Fundamental-Programming\Project3 gobang AI\x64\Debug\Gobang.exe

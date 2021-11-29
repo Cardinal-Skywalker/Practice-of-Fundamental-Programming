@@ -1,0 +1,51 @@
+2021-11-29 00:12:08  INFO CreateServiceRunnable:87 - CreateServiceRunnable initialization complete!
+2021-11-29 00:12:08  INFO CreateServiceRunnable:99 - CreateServiceRunnable is running...
+2021-11-29 00:12:08  INFO CreateServiceRunnable:108 - Start contest mode!
+2021-11-29 00:12:08  INFO CreateServiceRunnable:118 - The number of registered players: 0
+2021-11-29 00:12:15  INFO CreateServiceRunnable:202 - Accepted 201220193
+2021-11-29 00:12:15  INFO CreateServiceRunnable:245 - Not in Player List: 201220193
+2021-11-29 00:12:40  INFO CreateServiceRunnable:202 - Accepted 201220192
+2021-11-29 00:12:40  INFO CreateServiceRunnable:219 - Welcome 201220192,201220192
+2021-11-29 00:12:40  INFO CreateServiceRunnable:118 - The number of registered players: 1
+2021-11-29 00:12:51  INFO CreateServiceRunnable:202 - Accepted 201220195
+2021-11-29 00:12:51  INFO CreateServiceRunnable:219 - Welcome 201220195,201220195
+2021-11-29 00:12:51  INFO CreateServiceRunnable:281 - The number of registered players: 2
+2021-11-29 00:12:51  INFO CreateServiceRunnable:291 - No passed player in contest
+2021-11-29 00:12:51  INFO CreateServiceRunnable:293 - Contest start!
+2021-11-29 00:15:50  INFO CreateServiceRunnable:51 - Contest Started or Contest over!
+2021-11-29 00:15:57  INFO CreateServiceRunnable:51 - Contest Started or Contest over!
+2021-11-29 00:16:13  INFO CreateServiceRunnable:87 - CreateServiceRunnable initialization complete!
+2021-11-29 00:16:13  INFO CreateServiceRunnable:99 - CreateServiceRunnable is running...
+2021-11-29 00:16:13  INFO CreateServiceRunnable:108 - Start contest mode!
+2021-11-29 00:16:13  INFO CreateServiceRunnable:118 - The number of registered players: 0
+2021-11-29 00:16:14  INFO CreateServiceRunnable:202 - Accepted 201220195
+2021-11-29 00:16:14  INFO CreateServiceRunnable:219 - Welcome 201220195,201220195
+2021-11-29 00:16:14  INFO CreateServiceRunnable:118 - The number of registered players: 1
+2021-11-29 00:16:24  INFO CreateServiceRunnable:202 - Accepted 201220192
+2021-11-29 00:16:24  INFO CreateServiceRunnable:219 - Welcome 201220192,201220192
+2021-11-29 00:16:24  INFO CreateServiceRunnable:281 - The number of registered players: 2
+2021-11-29 00:16:24  INFO CreateServiceRunnable:291 - No passed player in contest
+2021-11-29 00:16:24  INFO CreateServiceRunnable:293 - Contest start!
+2021-11-29 00:18:06  INFO CreateServiceRunnable:51 - Contest Started or Contest over!
+2021-11-29 00:18:14  INFO CreateServiceRunnable:87 - CreateServiceRunnable initialization complete!
+2021-11-29 00:18:14  INFO CreateServiceRunnable:99 - CreateServiceRunnable is running...
+2021-11-29 00:18:14  INFO CreateServiceRunnable:108 - Start contest mode!
+2021-11-29 00:18:14  INFO CreateServiceRunnable:118 - The number of registered players: 0
+2021-11-29 00:18:16  INFO CreateServiceRunnable:202 - Accepted 201220195
+2021-11-29 00:18:16  INFO CreateServiceRunnable:219 - Welcome 201220195,201220195
+2021-11-29 00:18:16  INFO CreateServiceRunnable:118 - The number of registered players: 1
+2021-11-29 00:18:22  INFO CreateServiceRunnable:202 - Accepted 201220192
+2021-11-29 00:18:22  INFO CreateServiceRunnable:219 - Welcome 201220192,201220192
+2021-11-29 00:18:22  INFO CreateServiceRunnable:281 - The number of registered players: 2
+2021-11-29 00:18:22  INFO CreateServiceRunnable:291 - No passed player in contest
+2021-11-29 00:18:22  INFO CreateServiceRunnable:293 - Contest start!
+2021-11-29 07:52:00  INFO CreateServiceRunnable:87 - CreateServiceRunnable initialization complete!
+2021-11-29 07:52:00  INFO CreateServiceRunnable:99 - CreateServiceRunnable is running...
+2021-11-29 07:52:00  INFO CreateServiceRunnable:338 - Start test mode!
+2021-11-29 07:52:01  INFO CreateServiceRunnable:399 - Accepted 201220192
+2021-11-29 07:52:01  INFO CreateServiceRunnable:413 - Welcome 201220192,201220192
+2021-11-29 07:53:29  INFO CreateServiceRunnable:87 - CreateServiceRunnable initialization complete!
+2021-11-29 07:53:29  INFO CreateServiceRunnable:99 - CreateServiceRunnable is running...
+2021-11-29 07:53:29  INFO CreateServiceRunnable:338 - Start test mode!
+2021-11-29 07:53:30  INFO CreateServiceRunnable:399 - Accepted 201220192
+2021-11-29 07:53:31  INFO CreateServiceRunnable:413 - Welcome 201220192,201220192

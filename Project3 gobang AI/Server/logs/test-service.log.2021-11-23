@@ -1,0 +1,438 @@
+2021-11-23 14:02:55  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 14:02:55  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 14:03:01  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 14:03:01  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 14:03:10  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 14:03:10  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 14:03:12  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 14:03:12  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 14:03:12  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 14:03:13  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 14:08:36  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 14:08:36  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 14:08:42  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 14:08:42  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 14:08:55  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 14:08:55  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 14:08:57  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 14:08:57  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 14:08:57  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 14:08:57  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 14:12:00  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 14:12:00  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 14:12:08  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 14:12:08  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 14:12:19  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 14:12:19  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 14:12:22  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 14:12:22  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 14:12:22  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 14:12:22  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 14:41:46  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 14:41:46  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 14:41:54  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 14:41:54  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 14:42:05  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 14:42:05  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 14:42:07  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 14:42:07  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 14:42:07  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 14:42:07  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 14:52:18  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 14:52:18  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 14:52:25  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 14:52:25  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 14:52:33  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 14:52:33  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 14:52:35  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 14:52:35  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 14:52:35  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 14:52:35  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 17:58:45  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 17:58:45  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 17:58:47  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 17:58:47  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 17:58:49  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 17:58:49  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 17:58:50  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 17:58:50  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 17:58:50  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 17:58:50  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 19:02:23  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 19:02:23  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 19:02:27  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 19:02:27  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 19:02:30  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 19:02:30  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 19:02:31  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 19:02:31  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 19:02:31  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 19:02:31  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 19:05:00  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 19:05:00  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 19:05:03  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 19:05:03  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 19:05:08  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 19:05:08  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 19:05:09  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 19:05:09  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 19:05:09  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 19:05:09  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 19:07:25  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 19:07:25  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 19:07:28  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 19:07:28  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 19:07:32  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 19:07:32  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 19:07:33  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 19:07:33  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 19:07:33  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 19:07:33  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 19:09:31  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 19:09:31  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 19:09:34  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 19:09:34  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 19:09:39  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 19:09:39  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 19:09:40  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 19:09:40  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 19:09:40  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 19:09:40  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 19:13:55  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 19:13:55  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 19:13:58  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 19:13:58  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 19:14:02  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 19:14:02  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 19:14:03  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 19:14:03  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 19:14:03  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 19:14:03  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 19:20:29  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-1 begin!
+2021-11-23 19:20:29  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-1 round 0 start
+2021-11-23 19:20:30  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-1 round 0 end
+2021-11-23 19:20:30  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-1 round 1 start
+2021-11-23 19:20:33  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-1 round 1 end
+2021-11-23 19:20:33  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-1 round 2 start
+2021-11-23 19:20:34  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-1 round 2 end
+2021-11-23 19:20:34  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-1 game over
+2021-11-23 19:20:34  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-1 result save done!
+2021-11-23 19:20:34  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-1 record save done!
+2021-11-23 19:24:26  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 19:24:26  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 19:24:30  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 19:24:30  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 19:24:35  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 19:24:35  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 19:24:35  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 19:24:35  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 19:24:35  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 19:24:35  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 19:26:13  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 19:26:13  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 19:26:17  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 19:26:17  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 19:26:21  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 19:26:21  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 19:26:22  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 19:26:22  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 19:26:22  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 19:26:22  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 19:28:33  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 19:28:33  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 19:28:36  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 19:28:36  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 19:28:40  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 19:28:40  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 19:28:41  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 19:28:41  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 19:28:41  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 19:28:41  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 19:30:18  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 19:30:18  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 19:30:22  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 19:30:22  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 19:30:26  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 19:30:26  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 19:30:27  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 19:30:27  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 19:30:27  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 19:30:27  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 19:33:02  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 19:33:02  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 19:33:05  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 19:33:05  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 19:33:10  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 19:33:10  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 19:33:10  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 19:33:10  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 19:33:10  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 19:33:10  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 19:37:25  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-0 begin!
+2021-11-23 19:37:25  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 0 start
+2021-11-23 19:37:28  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 0 end
+2021-11-23 19:37:28  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 1 start
+2021-11-23 19:37:31  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 1 end
+2021-11-23 19:37:31  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-0 round 2 start
+2021-11-23 19:37:32  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-0 round 2 end
+2021-11-23 19:37:32  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-0 game over
+2021-11-23 19:37:32  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-0 result save done!
+2021-11-23 19:37:32  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-0 record save done!
+2021-11-23 19:42:06  INFO TestServiceRunnable:60 - 111111111vsRobotC-test-1 begin!
+2021-11-23 19:42:06  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-1 round 0 start
+2021-11-23 19:42:06  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-1 round 0 end
+2021-11-23 19:42:06  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-1 round 1 start
+2021-11-23 19:42:09  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-1 round 1 end
+2021-11-23 19:42:09  INFO TestServiceRunnable:70 - 111111111vsRobotC-test-1 round 2 start
+2021-11-23 19:42:10  INFO TestServiceRunnable:287 - 111111111vsRobotC-test-1 round 2 end
+2021-11-23 19:42:10  INFO TestServiceRunnable:327 - 111111111vsRobotC-test-1 game over
+2021-11-23 19:42:10  INFO TestServiceRunnable:334 - 111111111vsRobotC-test-1 result save done!
+2021-11-23 19:42:10  INFO TestServiceRunnable:339 - 111111111vsRobotC-test-1 record save done!
+2021-11-23 19:48:30  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-0 begin!
+2021-11-23 19:48:30  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-0 round 0 start
+2021-11-23 19:48:35  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-0 round 0 end
+2021-11-23 19:48:35  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-0 round 1 start
+2021-11-23 19:48:39  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-0 round 1 end
+2021-11-23 19:48:39  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-0 round 2 start
+2021-11-23 19:48:40  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-0 round 2 end
+2021-11-23 19:48:40  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-0 game over
+2021-11-23 19:48:40  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-0 result save done!
+2021-11-23 19:48:40  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-0 record save done!
+2021-11-23 20:18:00  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-0 begin!
+2021-11-23 20:18:00  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-0 round 0 start
+2021-11-23 20:18:03  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-0 round 0 end
+2021-11-23 20:18:03  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-0 round 1 start
+2021-11-23 20:18:06  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-0 round 1 end
+2021-11-23 20:18:06  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-0 round 2 start
+2021-11-23 20:18:07  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-0 round 2 end
+2021-11-23 20:18:07  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-0 game over
+2021-11-23 20:18:07  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-0 result save done!
+2021-11-23 20:18:07  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-0 record save done!
+2021-11-23 20:19:00  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-1 begin!
+2021-11-23 20:19:00  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-1 round 0 start
+2021-11-23 20:19:01  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-1 round 0 end
+2021-11-23 20:19:01  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-1 round 1 start
+2021-11-23 20:19:03  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-1 round 1 end
+2021-11-23 20:19:03  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-1 round 2 start
+2021-11-23 20:19:03  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-1 round 2 end
+2021-11-23 20:19:03  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-1 game over
+2021-11-23 20:19:03  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-1 result save done!
+2021-11-23 20:19:03  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-1 record save done!
+2021-11-23 20:28:08  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-2 begin!
+2021-11-23 20:28:08  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-2 round 0 start
+2021-11-23 20:28:09  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-2 round 0 end
+2021-11-23 20:28:09  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-2 round 1 start
+2021-11-23 20:28:10  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-2 round 1 end
+2021-11-23 20:28:10  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-2 round 2 start
+2021-11-23 20:28:11  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-2 round 2 end
+2021-11-23 20:28:11  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-2 game over
+2021-11-23 20:28:11  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-2 result save done!
+2021-11-23 20:28:11  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-2 record save done!
+2021-11-23 20:29:49  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-3 begin!
+2021-11-23 20:29:49  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-3 round 0 start
+2021-11-23 20:29:50  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-3 round 0 end
+2021-11-23 20:29:50  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-3 round 1 start
+2021-11-23 20:29:50  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-3 round 1 end
+2021-11-23 20:29:50  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-3 round 2 start
+2021-11-23 20:29:51  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-3 round 2 end
+2021-11-23 20:29:51  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-3 game over
+2021-11-23 20:29:51  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-3 result save done!
+2021-11-23 20:29:51  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-3 record save done!
+2021-11-23 20:35:28  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-4 begin!
+2021-11-23 20:35:28  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-4 round 0 start
+2021-11-23 20:35:29  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-4 round 0 end
+2021-11-23 20:35:29  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-4 round 1 start
+2021-11-23 20:35:31  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-4 round 1 end
+2021-11-23 20:35:31  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-4 round 2 start
+2021-11-23 20:35:32  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-4 round 2 end
+2021-11-23 20:35:32  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-4 game over
+2021-11-23 20:35:32  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-4 result save done!
+2021-11-23 20:35:32  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-4 record save done!
+2021-11-23 20:46:10  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-5 begin!
+2021-11-23 20:46:10  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-5 round 0 start
+2021-11-23 20:46:11  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-5 round 0 end
+2021-11-23 20:46:11  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-5 round 1 start
+2021-11-23 20:46:12  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-5 round 1 end
+2021-11-23 20:46:12  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-5 round 2 start
+2021-11-23 20:46:13  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-5 round 2 end
+2021-11-23 20:46:13  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-5 game over
+2021-11-23 20:46:13  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-5 result save done!
+2021-11-23 20:46:13  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-5 record save done!
+2021-11-23 21:06:00  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-6 begin!
+2021-11-23 21:06:00  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-6 round 0 start
+2021-11-23 21:06:01  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-6 round 0 end
+2021-11-23 21:06:01  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-6 round 1 start
+2021-11-23 21:06:04  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-6 round 1 end
+2021-11-23 21:06:04  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-6 round 2 start
+2021-11-23 21:06:05  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-6 round 2 end
+2021-11-23 21:06:05  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-6 game over
+2021-11-23 21:06:05  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-6 result save done!
+2021-11-23 21:06:05  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-6 record save done!
+2021-11-23 21:09:03  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-7 begin!
+2021-11-23 21:09:03  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-7 round 0 start
+2021-11-23 21:09:06  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-7 round 0 end
+2021-11-23 21:09:06  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-7 round 1 start
+2021-11-23 21:09:11  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-7 round 1 end
+2021-11-23 21:09:11  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-7 round 2 start
+2021-11-23 21:09:12  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-7 round 2 end
+2021-11-23 21:09:12  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-7 game over
+2021-11-23 21:09:12  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-7 result save done!
+2021-11-23 21:09:12  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-7 record save done!
+2021-11-23 21:10:18  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-8 begin!
+2021-11-23 21:10:18  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-8 round 0 start
+2021-11-23 21:10:22  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-8 round 0 end
+2021-11-23 21:10:22  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-8 round 1 start
+2021-11-23 21:10:26  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-8 round 1 end
+2021-11-23 21:10:26  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-8 round 2 start
+2021-11-23 21:10:28  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-8 round 2 end
+2021-11-23 21:10:28  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-8 game over
+2021-11-23 21:10:28  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-8 result save done!
+2021-11-23 21:10:28  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-8 record save done!
+2021-11-23 21:11:43  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-9 begin!
+2021-11-23 21:11:43  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-9 round 0 start
+2021-11-23 21:11:46  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-9 round 0 end
+2021-11-23 21:11:46  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-9 round 1 start
+2021-11-23 21:11:50  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-9 round 1 end
+2021-11-23 21:11:50  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-9 round 2 start
+2021-11-23 21:11:51  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-9 round 2 end
+2021-11-23 21:11:51  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-9 game over
+2021-11-23 21:11:51  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-9 result save done!
+2021-11-23 21:11:51  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-9 record save done!
+2021-11-23 21:23:20  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-10 begin!
+2021-11-23 21:23:20  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-10 round 0 start
+2021-11-23 21:23:22  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-10 round 0 end
+2021-11-23 21:23:22  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-10 round 1 start
+2021-11-23 21:23:24  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-10 round 1 end
+2021-11-23 21:23:24  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-10 round 2 start
+2021-11-23 21:23:25  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-10 round 2 end
+2021-11-23 21:23:25  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-10 game over
+2021-11-23 21:23:25  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-10 result save done!
+2021-11-23 21:23:25  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-10 record save done!
+2021-11-23 21:26:05  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-11 begin!
+2021-11-23 21:26:05  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-11 round 0 start
+2021-11-23 21:26:07  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-11 round 0 end
+2021-11-23 21:26:07  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-11 round 1 start
+2021-11-23 21:26:10  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-11 round 1 end
+2021-11-23 21:26:10  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-11 round 2 start
+2021-11-23 21:26:12  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-11 round 2 end
+2021-11-23 21:26:12  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-11 game over
+2021-11-23 21:26:12  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-11 result save done!
+2021-11-23 21:26:12  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-11 record save done!
+2021-11-23 21:28:24  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-12 begin!
+2021-11-23 21:28:24  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-12 round 0 start
+2021-11-23 21:28:26  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-12 round 0 end
+2021-11-23 21:28:26  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-12 round 1 start
+2021-11-23 21:28:28  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-12 round 1 end
+2021-11-23 21:28:28  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-12 round 2 start
+2021-11-23 21:28:30  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-12 round 2 end
+2021-11-23 21:28:30  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-12 game over
+2021-11-23 21:28:30  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-12 result save done!
+2021-11-23 21:28:30  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-12 record save done!
+2021-11-23 21:32:43  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-13 begin!
+2021-11-23 21:32:43  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-13 round 0 start
+2021-11-23 21:32:45  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-13 round 0 end
+2021-11-23 21:32:45  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-13 round 1 start
+2021-11-23 21:32:47  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-13 round 1 end
+2021-11-23 21:32:47  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-13 round 2 start
+2021-11-23 21:32:48  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-13 round 2 end
+2021-11-23 21:32:48  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-13 game over
+2021-11-23 21:32:48  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-13 result save done!
+2021-11-23 21:32:48  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-13 record save done!
+2021-11-23 21:37:56  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-14 begin!
+2021-11-23 21:37:56  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-14 round 0 start
+2021-11-23 21:37:57  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-14 round 0 end
+2021-11-23 21:37:57  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-14 round 1 start
+2021-11-23 21:38:00  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-14 round 1 end
+2021-11-23 21:38:00  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-14 round 2 start
+2021-11-23 21:38:01  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-14 round 2 end
+2021-11-23 21:38:01  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-14 game over
+2021-11-23 21:38:01  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-14 result save done!
+2021-11-23 21:38:01  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-14 record save done!
+2021-11-23 21:48:16  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-15 begin!
+2021-11-23 21:48:16  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-15 round 0 start
+2021-11-23 21:48:18  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-15 round 0 end
+2021-11-23 21:48:18  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-15 round 1 start
+2021-11-23 21:48:20  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-15 round 1 end
+2021-11-23 21:48:20  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-15 round 2 start
+2021-11-23 21:48:22  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-15 round 2 end
+2021-11-23 21:48:22  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-15 game over
+2021-11-23 21:48:22  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-15 result save done!
+2021-11-23 21:48:22  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-15 record save done!
+2021-11-23 21:49:59  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-0 begin!
+2021-11-23 21:49:59  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-0 round 0 start
+2021-11-23 21:50:05  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-0 round 0 end
+2021-11-23 21:50:05  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-0 round 1 start
+2021-11-23 21:50:06  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-0 round 1 end
+2021-11-23 21:50:06  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-0 round 2 start
+2021-11-23 21:50:08  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-0 round 2 end
+2021-11-23 21:50:08  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-0 game over
+2021-11-23 21:50:08  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-0 result save done!
+2021-11-23 21:50:08  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-0 record save done!
+2021-11-23 21:53:44  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-1 begin!
+2021-11-23 21:53:44  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-1 round 0 start
+2021-11-23 21:53:45  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-1 round 0 end
+2021-11-23 21:53:45  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-1 round 1 start
+2021-11-23 21:53:46  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-1 round 1 end
+2021-11-23 21:53:46  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-1 round 2 start
+2021-11-23 21:53:47  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-1 round 2 end
+2021-11-23 21:53:47  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-1 game over
+2021-11-23 21:53:47  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-1 result save done!
+2021-11-23 21:53:47  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-1 record save done!
+2021-11-23 21:55:31  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-2 begin!
+2021-11-23 21:55:31  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-2 round 0 start
+2021-11-23 21:55:33  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-2 round 0 end
+2021-11-23 21:55:33  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-2 round 1 start
+2021-11-23 21:55:35  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-2 round 1 end
+2021-11-23 21:55:35  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-2 round 2 start
+2021-11-23 21:55:36  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-2 round 2 end
+2021-11-23 21:55:36  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-2 game over
+2021-11-23 21:55:36  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-2 result save done!
+2021-11-23 21:55:36  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-2 record save done!
+2021-11-23 21:56:10  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-3 begin!
+2021-11-23 21:56:10  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-3 round 0 start
+2021-11-23 21:56:13  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-3 round 0 end
+2021-11-23 21:56:13  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-3 round 1 start
+2021-11-23 21:56:14  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-3 round 1 end
+2021-11-23 21:56:14  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-3 round 2 start
+2021-11-23 21:56:16  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-3 round 2 end
+2021-11-23 21:56:16  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-3 game over
+2021-11-23 21:56:16  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-3 result save done!
+2021-11-23 21:56:16  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-3 record save done!
+2021-11-23 22:55:15  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-0 begin!
+2021-11-23 22:55:15  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-0 round 0 start
+2021-11-23 22:55:21  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-0 round 0 end
+2021-11-23 22:55:21  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-0 round 1 start
+2021-11-23 22:55:22  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-0 round 1 end
+2021-11-23 22:55:22  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-0 round 2 start
+2021-11-23 22:55:24  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-0 round 2 end
+2021-11-23 22:55:24  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-0 game over
+2021-11-23 22:55:24  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-0 result save done!
+2021-11-23 22:55:24  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-0 record save done!
+2021-11-23 23:03:07  INFO TestServiceRunnable:60 - 201220193vsRobotC-test-0 begin!
+2021-11-23 23:03:07  INFO TestServiceRunnable:70 - 201220193vsRobotC-test-0 round 0 start
+2021-11-23 23:03:09 ERROR TestServiceRunnable:436 - java.net.SocketTimeoutException: Read timed out
+2021-11-23 23:03:09 ERROR TestServiceRunnable:437 - 201220193vsRobotC-test-0 ROUND 0 TimeoutException when receive BLACK step: 1 time!
+2021-11-23 23:03:11 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-23 23:03:11 ERROR TestServiceRunnable:446 - 201220193vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 2 time!
+2021-11-23 23:03:13 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-23 23:03:13 ERROR TestServiceRunnable:446 - 201220193vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 3 time!
+2021-11-23 23:03:15 ERROR TestServiceRunnable:445 - java.net.SocketTimeoutException: Read timed out
+2021-11-23 23:03:15 ERROR TestServiceRunnable:446 - 201220193vsRobotC-test-0 ROUND 0 TimeoutException when receiveBLACKstep: 4 time!
+2021-11-23 23:03:15  INFO TestServiceRunnable:287 - 201220193vsRobotC-test-0 round 0 end
+2021-11-23 23:03:15  INFO TestServiceRunnable:70 - 201220193vsRobotC-test-0 round 1 start
+2021-11-23 23:03:17 ERROR TestServiceRunnable:144 - java.net.SocketTimeoutException: Read timed out
+2021-11-23 23:03:17 ERROR TestServiceRunnable:145 - 201220193vsRobotC-test-0 ROUND 1 TimeoutException when synchronize black round
+2021-11-23 23:03:17  INFO TestServiceRunnable:287 - 201220193vsRobotC-test-0 round 1 end
+2021-11-23 23:03:17  INFO TestServiceRunnable:327 - 201220193vsRobotC-test-0 game over
+2021-11-23 23:03:17  INFO TestServiceRunnable:334 - 201220193vsRobotC-test-0 result save done!
+2021-11-23 23:03:17  INFO TestServiceRunnable:339 - 201220193vsRobotC-test-0 record save done!
+2021-11-23 23:03:18  INFO TestServiceRunnable:60 - 201220192vsRobotC-test-1 begin!
+2021-11-23 23:03:18  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-1 round 0 start
+2021-11-23 23:03:23  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-1 round 0 end
+2021-11-23 23:03:23  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-1 round 1 start
+2021-11-23 23:03:24  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-1 round 1 end
+2021-11-23 23:03:24  INFO TestServiceRunnable:70 - 201220192vsRobotC-test-1 round 2 start
+2021-11-23 23:03:26  INFO TestServiceRunnable:287 - 201220192vsRobotC-test-1 round 2 end
+2021-11-23 23:03:26  INFO TestServiceRunnable:327 - 201220192vsRobotC-test-1 game over
+2021-11-23 23:03:26  INFO TestServiceRunnable:334 - 201220192vsRobotC-test-1 result save done!
+2021-11-23 23:03:26  INFO TestServiceRunnable:339 - 201220192vsRobotC-test-1 record save done!
